@@ -1,0 +1,10 @@
+# Évite que Git modifie les fins de ligne / l'encodage du code VBA (ANSI)
+*.bas -text
+*.frm -text
+
+# Fichiers binaires
+*.frx  binary
+*.xlsm binary
+*.mcd  binary
+*.pdf  binary
+*.png  binary

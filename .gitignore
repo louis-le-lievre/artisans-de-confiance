@@ -1,0 +1,11 @@
+# Fichiers temporaires Office (créés quand un classeur est ouvert)
+~$*
+*.tmp
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Journaux d'export VBA
+*.log
